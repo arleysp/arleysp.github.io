@@ -1,0 +1,71 @@
+ 
+   body {
+    background-color: antiquewhite
+   }
+
+h2 { text-align: center;
+    
+}
+img {
+    width: 200px;
+    
+    padding: 10px;
+    background-color: rgb(107, 116, 113)
+   
+}
+#name { font-style: oblique;
+    font-family: verdana;
+
+    
+    ;
+}
+p{
+    font-family: helvetica;
+    position: absolute;
+    left: 235px;
+}
+em {
+    font-style: italic
+    ; font-stretch: condensed;
+    font-weight: bold;
+}
+strong {
+    color: brown;
+}
+
+#com {
+    font-size: 20px;
+
+}
+#aut {
+    font-size: 18px;
+}
+#res {
+    font-size: 16px;
+}
+#hab {
+    font-size: 14px;}
+
+div {
+    border: 2px solid green;
+}
+
+#minha-foto {
+    float: left;
+    height: 300 px;
+}
+
+#informations {
+
+}
+
+#dados {
+    height: 300px;
+    position: relative;
+
+}
+
+ul li:nth-child(odd) {
+    background-color: green;
+}
+
